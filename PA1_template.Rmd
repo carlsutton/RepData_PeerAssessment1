@@ -2,7 +2,10 @@
 title: "PA1_template"
 author: "Carl Sutton"
 date: "April 10, 2016"
-output: html_document
+output: 
+  html_document: 
+    fig_caption: yes
+    keep_md: yes
 ---
 
 #  Reproducible Research Course Project 1 
